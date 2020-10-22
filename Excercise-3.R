@@ -159,12 +159,6 @@ lines(density(pi2000, bw=0.2), col='red')
 
 
 ## Q 3.9
-#  ... will try to reproduce a graph some other time,
-#  moving on to Section 4
-
-
-
-
 
 
 
